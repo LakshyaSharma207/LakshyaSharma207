@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
 
 <h3 align="left">Languages and Technologies I use - </h3>
-[![https://github.com/nomi811/clickable-icons-to-readme/blob/master/README.md](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)]
+
 
 
 <h3 align="left">Most Used Languages - </h3> 
-  <p><img align="left" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LakshyaSharma207)](https://github.com/LakshyaSharma207/github-readme-stats"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshyaSharma207&show_icons=true&locale=en&layout=compact" alt="LakshyaSharma207" /></p>
