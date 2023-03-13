@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
 
 <h3 align="left">Languages and Technologies I use - </h3>
-
+![Python](https://github.com/[LakshyaSharma207]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 <h3 align="left">Most Used Languages - </h3> 
