@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
+
+Languages and Technologies I use - 
+
+Most used Langauges - 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LakshyaSharma207)](https://github.com/LakshyaSharma207/github-readme-stats)
