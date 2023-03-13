@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
 
 <h3 align="left">Languages and Technologies I use - </h3>
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls](https://user-images.githubusercontent.com/124886897/224782373-6edd3a6e-f71a-48e9-ad72-6c30308f9263.png”>
+<img src=“https://user-images.githubusercontent.com/124886897/224782373-6edd3a6e-f71a-48e9-ad72-6c30308f9263.png”>
 ![js](https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/js.png?raw=true)
 ![c-original](https://user-images.githubusercontent.com/124886897/224783943-8d31cf51-1fc9-48bb-9dff-045263bd4aad.svg)
 ![cplusplus-original](https://user-images.githubusercontent.com/124886897/224783965-6f38e058-a245-4bab-9b07-67710ea092ea.svg)
