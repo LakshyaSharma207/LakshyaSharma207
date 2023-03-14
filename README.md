@@ -21,5 +21,5 @@ I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
 <p align="left"><img src="https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/js.png?raw=true" alt="javascript" width="50" height="50"/><img>
 
 <h3 align="left">Most Used Languages - </h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshyaSharma207&show_icons=true&locale=en&layout=compact" alt="LakshyaSharma207" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSharma207&layout=compact)](https://github.com/LakshyaSharma207/github-readme-stats)
 
