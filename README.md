@@ -14,9 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
-
-<h3 align="left">Languages and Technologies I use - </h3>
-<p align="left"><img src=“https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/python.png?raw=true” alt="python" width="50" height="50"/><img src="https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/js.png?raw=true" alt="javascript" width="50" height="50"/><img src=“https://raw.githubusercontent.com/LakshyaSharma207/LakshyaSharma207/e6421525683422b3b8a8399105538d440886d023/images/html5-original-wordmark.svg” alt="html5" width="50" height="50"/>
-
+I am Lakshya Sharma, currently pursuing undergraduate course from NMIMS.
 
