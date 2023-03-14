@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 I am Lakshya Sharma, currently studying undergraduate course from NMIMS.
 
 <h3 align="left">Languages and Technologies I use - </h3>
-<img src=“https://user-images.githubusercontent.com/124886897/224782373-6edd3a6e-f71a-48e9-ad72-6c30308f9263.png”>
-<p align="left"><img src="https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/js.png?raw=true" alt="javascript" width="50" height="50"/><img>
+<p align="left"><img src=“https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/python.png?raw=true” alt="python" width="50" height="50"/><img src="https://github.com/LakshyaSharma207/LakshyaSharma207/blob/main/images/js.png?raw=true" alt="javascript" width="50" height="50"/>
 
-<h3 align="left">Most Used Languages - </h3> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaSharma207&hide=javascript,css,scss,html&theme=tokyonight)
